@@ -3,7 +3,9 @@ import { setdetails } from "../features/setcredentials";
 import { useNavigate as nav } from "react-router-dom";
 
 
-const baseQuery=fetchBaseQuery({baseUrl:"http://localhost:3500",
+const baseQuery=fetchBaseQuery({
+    // baseUrl:"http://localhost:3500",
+    baseUrl:"https://booking-app-backend-7ih9.onrender.com",
     
     credentials:"include",
     
