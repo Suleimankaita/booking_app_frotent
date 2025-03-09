@@ -37,7 +37,7 @@ const navigation = () => {
     
     }
 
-    const {Isadmin,Isemployee,users}=JSON.parse(localStorage.getItem("roles"))
+    const {Isadmin,Isemployee,users}=JSON.parse(localStorage.getItem("roles")||[])
 
     let content;
 
