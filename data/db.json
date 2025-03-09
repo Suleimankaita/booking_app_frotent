@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": "0",
+      "img": "img",
+      "name": "Lexury room",
+      "available": 5,
+      "unavailable": 0
+    },
+    {
+      "id": "1",
+      "img": "img1",
+      "name": "interior room",
+      "available": 5,
+      "unavailable": 0
+    },
+    {
+      "id": "2",
+      "img": "i",
+      "name": "best room",
+      "available": 5,
+      "unavailable": 0
+    },
+    {
+      "id": "260e",
+      "img": {}
+    },
+    {
+      "id": "9041",
+      "img": {}
+    },
+    {
+      "id": "1db7",
+      "img": {}
+    }
+  ]
+}
